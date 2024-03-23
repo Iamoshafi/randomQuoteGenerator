@@ -1,4 +1,4 @@
-**RANDOM QUOTE GENERATOR** <br>
+# RANDOM QUOTE GENERATOR <br>
 A Web app designed for the purpose of generating random quotes and practicing fetching data from Api’s <br>
 **Built With:**	<br>
 . HTML <br>
